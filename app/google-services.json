@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "277692892437",
+    "project_id": "mad-aft-2023",
+    "storage_bucket": "mad-aft-2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277692892437:android:6de9d54ec6762e83fa551c",
+        "android_client_info": {
+          "package_name": "adeel.firebaseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdd09I93ulS1Sl9YC_YTkUswXqRV7-FBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
